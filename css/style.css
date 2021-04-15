@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+}
+.add{
+    width: 48%;
+}
+
+
+
+
+
+
+@media (max-width:1000px){
+    .add{
+        width: 100%;
+    }
+}
+
+@media (max-width:777px){
+    .asd{
+        display: none;
+    }
+}
+@media (max-width:750px){
+    .abc{
+        font-size: 25px;
+    }
+    .p{
+        font-size: 10px;
+    }
+    .pl{
+        font-size: 15px;
+    }
+}
+@media (max-width:466px){
+    .abc{
+        font-size: 20px;
+        padding-bottom: 40px;
+    }
+    .p{
+        display: none;
+    }
+    .pl{
+        font-size: 10px;
+    }
+}
+@media (max-width:388px){
+    .abc{
+        font-size: 14px;
+    }
+    .pl{
+        font-size: 10px;
+    }
+}
